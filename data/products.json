@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Cà Phê Đen Đá Túi (30 gói x 16g)",
+    "price": 110000,
+    "image": "https://www.thtbstore.com/cdn/shop/files/vn-11134207-7qukw-lf7qz15v23iv2c.webp?v=1738664572"
+  },
+  {
+    "id": 2,
+    "name": "Thùng Cà Phê Sữa Espresso",
+    "price": 336000,
+    "image": "https://storage.googleapis.com/sc_pcm_product/prod/2023/4/28/3577-369052.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Combo 6 Lon Cà Phê Sữa Espresso",
+    "price": 84000,
+    "image": "https://storage.googleapis.com/sc_pcm_product/prod/2023/4/28/3577-369052.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cà Phê Rang Xay Original 1 250g",
+    "price": 60000,
+    "image": "https://down-vn.img.susercontent.com/file/d3229f414719e62d65131875151ff984"
+  },
+  {
+    "id": 5,
+    "name": "Cà Phê Sữa Đá Hòa Tan (10 gói x 22g)",
+    "price": 44000,
+    "image": "https://product.hstatic.net/1000288770/product/ca_phe_sua_da_hoa_tan_the_coffee_house_10_goi_x22_g_hop_220g_838fe9304cc84eb0a94ff83779431e1f_master.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cà Phê Sữa Đá Hòa Tan Túi 25x22G",
+    "price": 99000,
+    "image": "https://cdn.tgdd.vn/Products/Images/2524/266322/bhx/ca-phe-sua-da-the-coffee-house-hoa-tan-550g-202112232156539010.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Cà Phê Hòa Tan Đậm Vị Việt (18 gói x 16 gam)",
+    "price": 69000,
+    "image": "https://shop.annam-gourmet.com/pub/media/catalog/product/i/t/item_F169314_b998.png"
+  },
+  {
+    "id": 8,
+    "name": "Cà Phê Sữa Đá Pack 6 Lon",
+    "price": 84000,
+    "image": "https://cf.shopee.vn/file/a60596a2427692b01ba2db55c4f30de5"
+  }
+]
