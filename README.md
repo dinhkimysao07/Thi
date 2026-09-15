@@ -1,4 +1,4 @@
-# Chạm Kon Tum
+# Web Kon Tum
 
 Website giới thiệu địa điểm du lịch, văn hóa, ẩm thực, đặc sản và quà tặng Kon Tum.
 
@@ -17,6 +17,10 @@ Website giới thiệu địa điểm du lịch, văn hóa, ẩm thực, đặc 
 - Thêm sản phẩm vào giỏ hàng với các mục có thể mua.
 - Đăng nhập/đăng ký và phân quyền admin cơ bản.
 - Quản lý sản phẩm, danh mục bằng trang admin.
+
+## Thiết kế Figma
+
+Link thiết kế: [Thiết kế Figma - Dasani](https://www.figma.com/design/yteuC4il5q7zFMp7CeZU82/Dasani?node-id=0-1&p=f&t=UWJ0ApqY3L7h9lhK-0)
 
 ## Chạy dự án
 
